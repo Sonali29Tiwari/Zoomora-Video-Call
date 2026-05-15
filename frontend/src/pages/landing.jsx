@@ -45,7 +45,8 @@ export default function LandingPage() {
       </div>
       
       <div>
-      <img src="/phone.png" alt="" />        
+      {/* <img src="/phone.png" alt="" />         */}
+            <img src="/meet-image.jpg" alt="" />  
       </div>
     </div>
 

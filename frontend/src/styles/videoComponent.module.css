@@ -8,7 +8,7 @@
  .meetUserVideo{
     position: absolute;
     bottom: 10vh ;
-    height: 20vh;
+    height: 40vh;
     width: auto;
     left: 0;
     border-radius: 20px ;
@@ -34,7 +34,7 @@
 
 .conferenceView  video {
     width: 40vw;
-    height: 20vh;
+    height: 40vh;
     min-width: 30vw;
     border-radius: 10px;
 }
